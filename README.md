@@ -76,7 +76,3 @@ Received: {"detail-type":"UserEvent","detail":{"name":"Alice"}}
 
 - Make sure your AWS credentials have permissions for EventBridge and SQS.
 - The event and queue names should match your AWS setup.
-
-## License
-
-MIT
